@@ -1,10 +1,10 @@
-# University of Alberta Browser Console Template Repository
-## Full Stack Web Application Development Program
-### This repository is intended for the development of console JavaScript applications.
+# University of Alberta - EXSM 3935 FA1 2025 JavaScript I
+## Assignment 1
+Console application
+**Functionalities:**
+- Get users first and last names to construct the full name to output to the console.
+- Replace the lowercase "o" characters of the full name to "a" characters and output the result to the console.
+- Get two numbers (larger and smaller), output the remainder of the larger number divided by the smaller number to the console.
 
-Run `npm run lint` to attempt to detect errors in your repository.
-
-Use `output()` and `await input()` from `./src/js/scripts.js` to allow the user to interact with the console.
-To run the console, launch `./src/index.html`.
-
-Add your README content here.
+Darshatha Wijayasinghe
+**CCID:** dehiwala
